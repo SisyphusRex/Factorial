@@ -1,4 +1,4 @@
-// Main Entry
+// Program file
 
 // System Imports
 

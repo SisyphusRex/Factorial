@@ -1,4 +1,4 @@
-// Main Entry
+// Factorial class
 
 // System Imports
 
