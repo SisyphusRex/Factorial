@@ -10,9 +10,9 @@
  * Multi line comment test
  */
 //Main file, this runs the program
-class Main {
+public class FactorialBootstrap {
     public static void main(String[] args) {
-        run();
+        Program.run();
     }
 
 }
