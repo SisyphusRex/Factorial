@@ -26,6 +26,6 @@ public class Program {
                 System.out.println(solved);
             }
         }
-
+        myObj.close();
     }
 }
