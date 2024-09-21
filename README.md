@@ -5,4 +5,3 @@ javac -d . *.java
 
 To Run:
 java factpack.FactorialBootstrap
-
