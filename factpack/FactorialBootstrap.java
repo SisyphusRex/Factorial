@@ -14,6 +14,7 @@ package factpack;
 public class FactorialBootstrap {
     public static void main(String[] args) {
         Program.run();
+        System.exit(0);
     }
 
 }
