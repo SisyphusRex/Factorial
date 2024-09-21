@@ -1,3 +1,4 @@
+package factpack;
 // Factorial class
 
 // System Imports

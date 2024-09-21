@@ -1,4 +1,4 @@
-// Program file, where the main logic lies
+package factpack;
 
 // System Imports
 import java.util.Scanner;
