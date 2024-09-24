@@ -31,10 +31,15 @@ public class Program {
             }
             if (choice == 2) {
                 // produce a Tower of Hanoi result
-
+                System.out.println("Give me the number of discs: ");
+                int number = myObj.nextInt();
+                Hanoi.solve(number);
                 // this choice must be implemented
-                System.out.println("Must implement this first.")
+                System.out.println("");
+
             }
+            System.out.println(s);
+            choice = myObj.nextInt();
         }
         myObj.close();
 
